@@ -1,3 +1,4 @@
+##cambio
 class Kata
     def initialize(largo,ancho)
         @largo = largo
